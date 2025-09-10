@@ -1,9 +1,12 @@
 {css} 
 body 
-{margin}: 100 px
-    {padding}: 10 px; 
+
 {background-color: blue; 
- {border: black;
- {color: white; 
+ border: black;
+ color: white; 
 } 
+ul {list-style-type: none; 
+    margin: 110 px;
+    padding: 10 px;
+   } 
 
