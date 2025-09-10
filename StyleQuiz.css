@@ -9,4 +9,19 @@ ul {list-style-type: none;
     margin: 110 px;
     padding: 10 px;
    } 
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14 px 16 px;
+  text-decoration: none;
+
+ ul li a:hover {
+  background-color: #111111;
+}
+
 
