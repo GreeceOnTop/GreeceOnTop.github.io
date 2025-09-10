@@ -13,16 +13,17 @@ ul li {
   float: left;
 }
 
-ul li a {
+li a {
   display: block;
   color: white;
   text-align: center;
   padding: 14 px 16 px;
   text-decoration: none;
 
- ul li a:hover {
+ li a:hover {
   background-color: #111111;
 }
+
 
 
 
