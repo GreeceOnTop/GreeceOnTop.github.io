@@ -9,30 +9,30 @@ body {
 
 
 body 
-ul {background-color: blue; 
+ul {background-color: blue;} 
 
 
 {css} 
-
+body
 {list-style-type:"square"} 
-{background-color: blue; 
- border: #000000;
- color: white; 
+{background-color: blue;} 
+ {border: #000000;}
+ {color: white;} 
 } 
-ul {list-style-type: none; 
-    margin: 110 px;
-    padding: 10 px;
+ul {list-style-type: none;} 
+    {margin: 110 px;}
+    {padding: 10 px;}
    } 
 ul li {
   float: left;
 }
 
-li a {
-  display: block;
-  color: #800080;
-  text-align: center;
-  padding: 14 px 16 px;
-  text-decoration: none;
+li a 
+  {display: block;}
+  {color: #800080;}
+  {text-align: center;}
+  {padding: 14 px 16 px;}
+  {text-decoration: none;}
 
  li a:hover {
   background-color: #F5F5DC;
