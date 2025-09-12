@@ -16,7 +16,7 @@ ul {background-color: blue;
 body 
 {list-style-type:square} 
 {background-color: blue; 
- border: black;
+ border: #000000;
  color: white; 
 } 
 ul {list-style-type: none; 
