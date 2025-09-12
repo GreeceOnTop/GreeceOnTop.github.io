@@ -1,7 +1,7 @@
 body {
     background-color: red;
 }
-body 
+
  {
     color: gold;
 }
@@ -13,8 +13,8 @@ ul {background-color: blue;
 
 
 {css} 
-body 
-{list-style-type:square} 
+
+{list-style-type:"square"} 
 {background-color: blue; 
  border: #000000;
  color: white; 
