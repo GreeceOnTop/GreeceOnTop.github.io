@@ -29,11 +29,11 @@ ul li {
 }
 
 li a 
-  {display: block;
-  color: "#800080";
-  text-align: center;
-  padding: 14 px 16 px;
-  text-decoration: none;}
+  {display: "block"}
+  {color:"#800080"}
+  {text-align: center}
+  {padding: 14 px 16 px}
+  {text-decoration: none}
 
  li a:hover {
   background-color: "#F5F5DC";
