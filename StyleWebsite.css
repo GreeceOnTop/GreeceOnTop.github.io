@@ -16,9 +16,9 @@ ul {background-color: blue;}
 body
 P
 {list-style-type:"square"} 
-{background-color: #00FFFF;} 
- {border: #000000;}
- {color: #FFFFFF;} 
+{background-color: "#00FFFF";} 
+ {border: "#000000";}
+ {color: "#FFFFFF";} 
 } 
 ul {list-style-type: none;} 
     {margin: 110 px;}
@@ -30,13 +30,13 @@ ul li {
 
 li a 
   {display: block;
-  color: #800080;
+  color: "#800080";
   text-align: center;
   padding: 14 px 16 px;
   text-decoration: none;}
 
  li a:hover {
-  background-color: #F5F5DC;
+  background-color: "#F5F5DC";
 }
 
 
