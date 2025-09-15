@@ -17,9 +17,9 @@ body
 P
 ul 
 {list-style-type:"square"} 
-{background-color: "#00FFFF";} 
- {border: "#000000";}
- {color: "#FFFFFF";} 
+{background-color: "#00FFFF"} 
+ {border: "#000000"}
+ {color: "#FFFFFF"} 
 } 
 ul {list-style-type: none;} 
     {margin: 110 px;}
