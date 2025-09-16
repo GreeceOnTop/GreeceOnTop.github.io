@@ -10,7 +10,7 @@ body
 
 body 
 ul
-{background-color: blue;} 
+{background-color: "blue"} 
 
 #menu li a
 {
