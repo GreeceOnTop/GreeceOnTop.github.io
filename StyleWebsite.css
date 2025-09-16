@@ -8,61 +8,6 @@ body
 
 
 
-body 
-ul
-{background-color: "blue"} 
 
-#menu li a
-{
-display:block;  
-height: 25 px;
-
-font-weight: bold;
-color: White;
-text-align: center;
-text-decoration: none;
-font-family: helvetica;
-}
-
-{css} 
-body
-P
-ul 
-{list-style-type:"square"} 
- {border: "#000000"}
- 
-} 
-ul {list-style-type: none;} 
-    {margin: 110 px;}
-    {padding: 10 px;}
-   } 
-ul li {
-  float: "left";
-}
-
-
-
-body 
-
- li a:hover {
-  background-color: "#F5F5DC";
-}
-
-ul {
-  color: white;            /* Text color */
-  background-color: "cyan";  /* Background color */
-  border: 2 px "solid black"; /* Black border */
-  padding: 10 px;
-  list-style-type: none;   /* Optional: removes bullets */
-}
-
-ul li {
-  padding: 5 px;
-  transition: color 0.3 s;
-}
-
-ul li:hover {
-  color: "purple"; /* Changes text color on hover */
-}
 
 
