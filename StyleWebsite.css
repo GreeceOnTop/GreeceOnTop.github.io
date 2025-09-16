@@ -9,6 +9,8 @@ body
 
 
 body 
+ul
+{background-color: blue;} 
 
 #menu li a
 {
@@ -17,7 +19,6 @@ height: 25 px;
 
 font-weight: bold;
 color: White;
-background-color: blue;
 text-align: center;
 text-decoration: none;
 font-family: helvetica;
