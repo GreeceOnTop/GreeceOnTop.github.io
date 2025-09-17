@@ -3,7 +3,7 @@ ul {
   background-color: "cyan";  /* Background color */
   border: 2 px "solid black"; /* Black border */
   padding: 10 px;
-  list-style-type: none;   /* Optional: removes bullets */
+  list-style-type: none;   
 }
 
 ul li {
@@ -12,6 +12,7 @@ ul li {
 }
 
 ul li:hover {
-  color: "purple"; /* Changes text color on hover */
+  color: "purple" /* Changes text color on hover */
 }
+
 
