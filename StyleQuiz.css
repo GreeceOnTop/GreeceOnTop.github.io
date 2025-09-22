@@ -15,3 +15,7 @@ ul li {
   margin: 5 px;
 }
 
+ul li a:hover {
+  background-color: #5fff03;
+  color: black;
+}
