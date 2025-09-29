@@ -33,3 +33,11 @@ body
   background-repeat: no-repeat;
   background-attachment: fixed;
 } 
+
+body {
+    background-color: plum;
+}
+body
+ {
+    color: gold;
+}
