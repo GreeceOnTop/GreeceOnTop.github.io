@@ -4,7 +4,7 @@ body
 
 
 
-ul {
+ul { 
   background: powderblue;
   padding: 20 px;
 }
@@ -32,3 +32,4 @@ body
  {
     color: gold;
 }
+ /* CSS for list with the UL, gives it colours and puts it in the right place with padding, ul li hover geeft het een mooi kleurtje als je met de muis eroverheen gaat. Voor de rest gewoon hele website kleur geven met body colour and background-colour.
